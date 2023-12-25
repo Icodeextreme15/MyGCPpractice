@@ -1,2 +1,2 @@
 # MyGCPpractice
-This file consists if GCP data engineering codes and tricks
+This Repository consists of GCP data engineering codes and tricks
